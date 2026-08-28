@@ -1,0 +1,80 @@
+# Terms of Service - Video Silence Remover
+
+**Last updated: August 28, 2026**
+
+**Version: 1.0**
+
+## 1. Acceptance of Terms
+Welcome to Video Silence Remover ("the App"). These Terms of Service ("Terms") constitute a legally binding agreement between you ("User," "you," or "your") and **SSManha Ltd**, a company registered in the United Kingdom ("we," "us," or "our").
+
+By downloading, accessing, or using Video Silence Remover, you acknowledge that you have read, understood, and agree to be bound by these Terms. If you do not agree, you must not use the App.
+
+We reserve the right to modify these Terms. Material changes will be notified in-app. Continued use after changes constitutes acceptance.
+
+## 2. Eligibility
+The App is intended for users aged **13 and over**. If you are under the age of 18, you should only use the App with the involvement of a parent or guardian. By using the App, you confirm that you meet this minimum age requirement.
+
+## 3. App Description
+Video Silence Remover is a mobile application that detects silences in video files and allows you to remove them. Detection and processing are performed entirely on-device using Silero VAD and Android MediaCodec. The App processes one video at a time. You retain full control over which detected silence segments to keep or remove.
+
+## 4. On-Device Processing & No Data Collection
+All silence detection and video processing is performed locally on your device. **We do not collect, access, store, or transmit any of your videos, audio tracks, detected silence data, processed output, or other content to any external server.** Nothing you process using the App is seen by us at any point. For full detail on what limited data (if any) is handled by third-party services, see our Privacy Policy.
+
+## 5. App Permissions
+The App requires the following permissions solely to function:
+
+- **Storage / Media Access** (READ_EXTERNAL_STORAGE and WRITE_EXTERNAL_STORAGE where required by the Android version), to select video files for processing and to save the resulting silence-removed videos to your device. All reading and writing happens locally.
+- **Internet access**, used exclusively so that Google Play Billing can verify subscription/Pro purchases. This permission is never used to transmit videos, audio, detected silences, or any personal content.
+
+You can revoke permissions in your device settings at any time, though this may limit or disable certain features of the App.
+
+## 6. Pro Subscription Terms
+- Subscriptions are managed entirely through the Google Play Store. We do not collect or store your payment information.
+- The free version allows processing with low resolution output. Medium, high, and original resolution output are Pro features.
+- After subscribing, you may process unlimited videos.
+- The App may be used for both personal and professional/business purposes. No separate business or commercial licence is required.
+- Pricing, billing cycles, free trials (where offered), auto-renewal, cancellation, and refunds are governed by Google Play's policies and your Google Play account settings.
+- Prices may change; where required, you will be notified in advance by Google Play before renewal at a new price.
+- Cancelling your subscription stops future renewals but does not automatically refund the current billing period, except as required by Google Play policy or applicable law.
+
+## 7. Acceptable Use
+You agree not to use the App to:
+
+- Infringe on the intellectual property, privacy, or other rights of any person;
+- Process videos that you do not have the legal right to process or modify;
+- Engage in any unlawful purpose.
+
+**Content Responsibility**: You are solely responsible for the videos you choose to process, for ensuring you have the necessary rights to those videos, and for how you use the App’s output.
+
+## 8. Intellectual Property
+The App, its underlying code, and associated branding are the property of SSManha Ltd. Subject to your compliance with these Terms, we grant you a limited, non-exclusive, non-transferable, revocable license to use the App for **both personal and commercial/professional purposes**. You may not reverse-engineer, decompile, redistribute, or resell the App itself except as permitted by applicable law. Third-party libraries used within the App remain subject to their own respective licenses.
+
+This license is granted on an "AS IS" basis. We take on no responsibility for how you use the App, whether for personal or commercial purposes. Regardless of the purpose of use, Sections 9 (Disclaimer of Warranties), 10 (Limitation of Liability), and 11 (Indemnification) apply in full, and you remain solely responsible for your content and its use under Section 7.
+
+## 9. Disclaimer of Warranties
+The App is provided "AS IS" and "AS AVAILABLE," without warranties of any kind, whether express or implied, regardless of whether you use the App for personal or commercial purposes. We do not guarantee uninterrupted or error-free service, nor that silence detection will be perfect, nor that any processed video will be accurate, complete, or fit for any particular purpose (including professional or business use). You are responsible for reviewing the output before relying on it. Nothing in this section limits any statutory rights you have as a consumer under the UK Consumer Rights Act 2015 or equivalent local consumer protection law.
+
+## 10. Limitation of Liability
+To the maximum extent permitted by law, we are not liable for any indirect, incidental, special, or consequential damages arising from your use of, or inability to use, the App, including any damages arising from imperfect silence detection, errors in processed videos, or loss of original media. This does not exclude or limit liability that cannot be excluded under applicable law (e.g., death or personal injury caused by negligence, or fraud).
+
+## 11. Indemnification
+You agree to indemnify and hold harmless SSManha Ltd from any claims, damages, liabilities, or expenses (including reasonable legal fees) arising from your misuse of the App or your violation of these Terms, to the extent permitted by applicable law.
+
+## 12. Termination
+We may suspend or terminate your access to the App for violation of these Terms. You may stop using the App at any time by uninstalling it.
+
+## 13. Governing Law & Jurisdiction
+These Terms are governed by the laws of **England and Wales**. Any disputes shall be subject to the non-exclusive jurisdiction of the courts of England and Wales. If you are a consumer residing outside the UK, you may also benefit from mandatory consumer protection laws in your own country of residence, which are not affected by this clause.
+
+## 14. General Provisions
+- **Severability**: If any provision of these Terms is found unenforceable, the remaining provisions will remain in full effect.
+- **Entire Agreement**: These Terms, together with our Privacy Policy, constitute the entire agreement between you and us regarding the App.
+- **No Assignment**: You may not assign or transfer your rights under these Terms. We may assign our rights and obligations without restriction, including in connection with a merger, acquisition, or sale of assets.
+- **Changes to Terms**: We may update these Terms from time to time. Material changes will be notified in-app; continued use of the App after such changes constitutes acceptance.
+
+## 15. Contact Us
+For questions about these Terms, contact: **support@ssmanha.com**
+
+---
+
+© 2026 SSManha Ltd. All rights reserved.
