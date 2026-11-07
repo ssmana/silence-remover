@@ -1,13 +1,13 @@
-# Terms of Service - Video Silence Remover
+# Terms of Service - Snipt
 
 **Last updated: August 28, 2026**
 
 **Version: 1.0**
 
 ## 1. Acceptance of Terms
-Welcome to Video Silence Remover ("the App"). These Terms of Service ("Terms") constitute a legally binding agreement between you ("User," "you," or "your") and **SSManha Ltd**, a company registered in the United Kingdom ("we," "us," or "our").
+Welcome to Snipt ("the App"). These Terms of Service ("Terms") constitute a legally binding agreement between you ("User," "you," or "your") and **SSManha Ltd**, a company registered in the United Kingdom ("we," "us," or "our").
 
-By downloading, accessing, or using Video Silence Remover, you acknowledge that you have read, understood, and agree to be bound by these Terms. If you do not agree, you must not use the App.
+By downloading, accessing, or using Snipt, you acknowledge that you have read, understood, and agree to be bound by these Terms. If you do not agree, you must not use the App.
 
 We reserve the right to modify these Terms. Material changes will be notified in-app. Continued use after changes constitutes acceptance.
 
@@ -15,7 +15,7 @@ We reserve the right to modify these Terms. Material changes will be notified in
 The App is intended for users aged **13 and over**. If you are under the age of 18, you should only use the App with the involvement of a parent or guardian. By using the App, you confirm that you meet this minimum age requirement.
 
 ## 3. App Description
-Video Silence Remover is a mobile application that detects silences in video files and allows you to remove them. Detection and processing are performed entirely on-device using Silero VAD and Android MediaCodec. The App processes one video at a time. You retain full control over which detected silence segments to keep or remove.
+Snipt is a mobile application that detects silences in video files and allows you to remove them. Detection and processing are performed entirely on-device using Silero VAD and Android MediaCodec. The App processes one video at a time. You retain full control over which detected silence segments to keep or remove.
 
 ## 4. On-Device Processing & No Data Collection
 All silence detection and video processing is performed locally on your device. **We do not collect, access, store, or transmit any of your videos, audio tracks, detected silence data, processed output, or other content to any external server.** Nothing you process using the App is seen by us at any point. For full detail on what limited data (if any) is handled by third-party services, see our Privacy Policy.

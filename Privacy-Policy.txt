@@ -1,11 +1,11 @@
-# Privacy Policy - Video Silence Remover
+# Privacy Policy - Snipt
 
 **Last updated: August 28, 2026**
 
 **Version: 1.0**
 
 ## Overview
-Welcome to Video Silence Remover ("the App"). We are committed to protecting your privacy. This Privacy Policy explains how (little) data is handled when you use the App.
+Welcome to Snipt ("the App"). We are committed to protecting your privacy. This Privacy Policy explains how (little) data is handled when you use the App.
 
 **Our Core Principle:** All silence detection and video processing happens entirely on your device using on-device AI (Silero VAD) and Android MediaCodec. We do not collect, access, store, or transmit any of your videos, audio, detected silences, processed output, or personal content to any external server, and we do not have the ability to view anything you process using the App.
 
